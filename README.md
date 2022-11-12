@@ -4,7 +4,7 @@ For now we have included our full tools list from our paper at the links below:
 
 Tools Lists:
 + [Autograders](autograders.md)
-+ [Plagiarism Detectors](plagiarism_detectors,md)
++ [Plagiarism Detectors](plagiarism_detectors.md)
 + [Development Environments](development_environments.md)
 + [Visualisation Tools](visualisation.md)
 + [Course Management](course_management.md)
