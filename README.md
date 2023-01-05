@@ -1,8 +1,8 @@
 ## CSEd Tools
 
-You can find a full tools list from our open-access paper [Stop Reinventing the Wheel! Promoting Community Software in Computing Education](https://dl.acm.org/doi/10.1145/3571785.3574129) at the links below. 
+You can find a full tools list from the open-access paper [Stop Reinventing the Wheel! Promoting Community Software in Computing Education](https://dl.acm.org/doi/10.1145/3571785.3574129) (2022) at the links below. 
 
-*Note: this is an ongoing project and this list will be regularly updated and modified. Please view this [tagged version](https://github.com/csed-tools/csed-tools.github.io/tree/v0.0.1-alpha) to see the list of tools from the time of publication.*
+*Note: this is an ongoing project and this list will be regularly updated and modified. Please view this [tagged version](https://github.com/csed-tools/csed-tools.github.io/tree/v0.0.1-alpha) to see the list of tools from the time of the original publication.*
 
 Tools Lists:
 + [Autograders](autograders.md)
